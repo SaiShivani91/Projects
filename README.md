@@ -2,8 +2,9 @@
 
 The Movie Recommendation System using BERT is designed to suggest movies to users based on the similarity of their metadata. This project leverages the powerful BERT model to create embeddings from movie data and uses these embeddings to find and recommend movies that are similar to a given movie.
 
-## Tools and Technologies: Python: The primary programming language used for the project.
+## Tools and Technologies: 
 
+- Python: The primary programming language used for the project.
 - Pandas and NumPy: Libraries for data manipulation and numerical computing.
 - Scikit-learn: Used for preprocessing and calculating cosine similarity.
 - Matplotlib and Seaborn: Tools for data visualization.
